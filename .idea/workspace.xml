@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="387c0364-a4b2-4938-bec4-14907154234c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Lesson5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +26,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Ntope1983"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Ntope1983/Lesson5.git",
+    "accountId": "f26de1ef-c205-43f5-93f0-1333a4b6a08f"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="36NR1nvQSWN5uButlN6dbBEt615" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -47,6 +50,9 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Exercise1.executor": "Run",
+    "Python.Exercise10.executor": "Run",
+    "Python.Exercise11.executor": "Run",
+    "Python.Exercise12.executor": "Run",
     "Python.Exercise2.executor": "Run",
     "Python.Exercise3.executor": "Run",
     "Python.Exercise4.executor": "Run",
@@ -56,8 +62,9 @@
     "Python.Exercise8.executor": "Run",
     "Python.Exercise9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -76,5 +83,16 @@
       <updated>1764844829772</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
